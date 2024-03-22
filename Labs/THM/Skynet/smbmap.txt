@@ -1,0 +1,5 @@
+host:10.10.4.188, share:print$, privs:NO_ACCESS
+host:10.10.4.188, share:anonymous, privs:READ_ONLY, isDir:f, path:anonymous/attention.txt, fileSize:163, date:Tue Sep 17 23:04:59 2019
+host:10.10.4.188, share:anonymous, privs:READ_ONLY, isDir:d, path:anonymous/logs, fileSize:0, date:Wed Sep 18 00:42:16 2019
+host:10.10.4.188, share:milesdyson, privs:NO_ACCESS
+host:10.10.4.188, share:IPC$, privs:NO_ACCESS
