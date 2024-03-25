@@ -8,7 +8,7 @@ Instead of having individual sections, it's a "continuous" model in that if 1 se
 
 A brief description of each is as follows
 
-- [[CIA Triad#Confidentiality|Confidentiality]]: You want to ensure that secret and private files and information are only available to intended persons.
+- [Confidentiality](#Confidentiality): You want to ensure that secret and private files and information are only available to intended persons.
 - [[CIA Triad#Integrity|Integrity]]: It is crucial that no one can tamper with the files stored on your system or while being transferred on the network.
 - [[CIA Triad#Availability|Availability]]: You want your laptop or smartphone to be available to use anytime you decide to use it.
 
